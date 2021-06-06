@@ -1,6 +1,7 @@
 '''
 动画来源：https://visualgo.net/en/sorting?slide=7
 时间复杂度：O(N*N)
+空间复杂度：O(1)
 不管冒泡排序的时间复杂度如何，需要比较的次数为 0+1+2+......+(n-1)
 '''
 import numpy as np
